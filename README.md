@@ -9,10 +9,10 @@
 ## Python
 ## C#
 ## Lua
-# Real languages i know
+# IRL languages i know
 ## Russian
 ## English
-### (and some German)
+### (and a little German)
 <!---
 kotaroTOP/kotaroTOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
